@@ -1,36 +1,4 @@
 # Ideeënbibliotheek 
 Human Values for Smarter Cities
 
-## Desig Challenge
-...
-
-## Resources
-[Design](...)  
-[Content](...)
-
-## Studentenwerk
-
-**Sprint 2: The Client**  
-
-|  |  |  | 
-| :--------------- | :--------------- | :--------------- |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-
-**Sprint 14: Lose Your Head**  
-
-|  |  |  | 
-| :--------------- | :--------------- | :--------------- |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-| ... |	[repository](...)  |	[live site](...) |
-
- 
-
-
-
+[Desig Challenge](https://github.com/fdnd-agency/ideeenbibliotheek/wiki/Design-Challenge)
