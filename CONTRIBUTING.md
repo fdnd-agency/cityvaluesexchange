@@ -1,7 +1,5 @@
 # Team MIV
 
-# Team MIV
-
 ## Team canvas
 <img width="1493" height="1065" alt="image" src="https://github.com/user-attachments/assets/17ea5337-e26f-4cec-972e-94cabaf74c31" />
 
