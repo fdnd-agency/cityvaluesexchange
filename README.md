@@ -1,4 +1,4 @@
-# City Values Exchange 
+# Designing for Recognition
 Human Values for Smarter Cities
 
-[Desig Challenge](https://github.com/fdnd-agency/cityvaluesexchange/wiki/Design-Challenge)
+[Desig Challenge](https://github.com/fdnd-agency/designingforrecognition/wiki/Design-Challenge)
